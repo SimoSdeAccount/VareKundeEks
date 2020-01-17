@@ -1,0 +1,6 @@
+C:\Users\HFGF\source\repos\KundeVareEks\KundeVareEks\bin\Debug\KundeVareEks.exe.config
+C:\Users\HFGF\source\repos\KundeVareEks\KundeVareEks\bin\Debug\KundeVareEks.exe
+C:\Users\HFGF\source\repos\KundeVareEks\KundeVareEks\bin\Debug\KundeVareEks.pdb
+C:\Users\HFGF\source\repos\KundeVareEks\KundeVareEks\obj\Debug\KundeVareEks.csprojAssemblyReference.cache
+C:\Users\HFGF\source\repos\KundeVareEks\KundeVareEks\obj\Debug\KundeVareEks.exe
+C:\Users\HFGF\source\repos\KundeVareEks\KundeVareEks\obj\Debug\KundeVareEks.pdb
